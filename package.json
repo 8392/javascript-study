@@ -8,6 +8,7 @@
     "build": "vitepress build docs",
     "serve": "vitepress serve docs"
   },
+  "homepage": "https://artist.github.io/javascript-study",
   "keywords": [],
   "author": "",
   "license": "ISC",
